@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args)  {
 
-        int numero   
+        int numero;   
         String agencia;
         String nome;
         double saldo;
