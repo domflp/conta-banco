@@ -18,7 +18,7 @@ public class ContaTerminal {
             System.out.println("Por favor insira o numero da Agencia");
             agencia = ler.next();
 
-             System.out.println("Por favor  insira o seu nome");
+            System.out.println("Por favor  insira o seu nome");
             nome = ler.next();
             System.out.println("Por favor insira o seu saldo ");
             saldo = ler.nextDouble();
